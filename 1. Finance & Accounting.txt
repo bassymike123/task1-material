@@ -1,0 +1,143 @@
+1. Finance & Accounting
+
+Software used for budgeting, reporting, forecasting, audits, and financial compliance.
+
+SAP S/4HANA Finance – ERP finance module widely used in energy companies
+
+Oracle Financials (ERP Cloud) – Comprehensive accounting and reporting
+
+Microsoft Dynamics 365 Finance – Strong integration with other MS tools
+
+BlackLine – Account reconciliation & financial close automation
+
+Anaplan – Scenario modeling & financial planning
+
+Key Tasks Supported: budgeting, cost allocation, forecasting, regulatory financial reporting
+
+⚙️ 2. Operations & Asset Management
+
+Tools for managing energy assets, production optimization, and workflow automation.
+
+OSIsoft PI System – Operational data historian & real-time analytics
+
+AVEVA/Schneider Electric EAM – Enterprise Asset Management for utilities
+
+IBM Maximo – Asset lifecycle & maintenance management
+
+AspenTech aspenONE – Process optimization for oil & gas industries
+
+GE Predix – Industrial IoT platform for operations data
+
+Key Tasks Supported: monitoring production KPIs, asset utilization, process optimization
+
+🔧 3. Maintenance & Field Service
+
+Software to schedule maintenance, track field crews, and manage reliability.
+
+IBM Maximo Mobile – Field service & maintenance execution
+
+IFS Field Service Management – Dispatch planning & service tracking
+
+UpKeep – CMMS for reactive and preventive maintenance
+
+Fiix – Asset health tracking & maintenance workflows
+
+ProntoForms – Mobile forms for field inspections & data capture
+
+Key Tasks Supported: preventive maintenance, work orders, equipment servicing
+
+🛡 4. Safety, Compliance & Risk Management
+
+Tools to track incidents, manage permits, and ensure regulatory compliance.
+
+Enablon – EHS & compliance management
+
+Intelex – Safety, risk, and environmental performance
+
+SpheraCloud – Operational risk & sustainability software
+
+Quentic – EHS & sustainability platform
+
+Cority – Health, safety, and environmental compliance workflows
+
+Key Tasks Supported: incident reporting, risk assessments, audits
+
+📊 5. Analytics & Business Intelligence
+
+These platforms help derive insights from data across the business.
+
+Tableau – Visual analytics & dashboards
+
+Power BI – Microsoft’s BI tool integrated with Excel/Teams
+
+Qlik Sense – Associative analytics engine
+
+Tibco Spotfire – Predictive analytics & visual insights
+
+ThoughtSpot – Search-driven analytics
+
+Key Tasks Supported: trend analysis, KPI reporting, operational dashboards
+
+📅 6. Project Management
+
+Vital for construction, upgrades, and cross-department coordination.
+
+Primavera P6 (Oracle) – Large project scheduling & resource planning
+
+Microsoft Project – Classic project scheduling tool
+
+Asana – Team task planning & workflows
+
+Jira – Agile tasks and issue tracking
+
+Smartsheet – Spreadsheet-style project collaboration
+
+Key Tasks Supported: timelines, milestones, resource management
+
+👥 7. Human Resources & Workforce Management
+
+For recruitment, payroll, performance, and training.
+
+Workday HCM – HR, payroll, talent management
+
+SAP SuccessFactors – Workforce performance & learning
+
+BambooHR – Mid-market HRIS
+
+UKG Pro – HR/payroll & workforce analytics
+
+Cornerstone OnDemand – Training & compliance learning
+
+Key Tasks Supported: hiring, performance reviews, employee records
+
+🛒 8. Procurement & Supply Chain
+
+Tools to source equipment, manage contracts, and track logistics.
+
+SAP Ariba – Procurement & supplier management
+
+Coupa – Spend management & purchasing
+
+Jaggaer – Advanced sourcing & supply chain tools
+
+Oracle SCM Cloud – Comprehensive supply chain suite
+
+Infor Nexus – Supply chain visibility & collaboration
+
+Key Tasks Supported: vendor management, purchasing, inventory tracking
+
+📡 9. Energy Trading & Risk Management (ETRM/CTRM)
+
+Specialized systems for commodities pricing, trading, risk, and settlements.
+
+Allegro Horizon – Commodities trading & risk
+
+Openlink Endur – Energy asset & risk management
+
+Trayport – Market access & pricing for power/gas
+
+Pegasus ETRM – Trading and risk analytics
+
+AspectCTRM – Cloud-native trading & risk platform
+
+Key Tasks Supported: market pricing, portfolio risk, trade settlements
